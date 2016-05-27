@@ -10,7 +10,9 @@ public class E{
 		
 	}
 	
-	public boolean contains(String n);
+	public boolean contains(String n) {
+		return false;
+	}
 
 	public List getDataList() {
 		return dataList;
